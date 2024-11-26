@@ -1,0 +1,1 @@
+Ceci est un fichier README pour expliquer mon manuel sur "Comment utiliser Git"
